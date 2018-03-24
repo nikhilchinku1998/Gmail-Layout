@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Gmail</string>
+<string name="toolbar">All inboxes</string>
+
+    <string name="button1">U</string>
+    <string name="button2">K</string>
+    <string name="button3">G</string>
+    <string name="button4">S</string>
+    <string name="button5">A</string>
+    <string name="button6">D</string>
+    <string name="button7">U</string>
+    <string name="button8">K</string>
+    <string name="button9">S</string>
+
+
+   <string name="text1_1">Udacity</string>
+    <string name="text1_2">Become an Android or Web developer</string>
+    <string name="text1_3">Google partners with udacity to offer 5000 new ...</string>
+
+    <string name="text2_1">Kunal Chawla</string>
+    <string name="text2_2">Learn Basics of Android</string>
+    <string name="text2_3">Start your career ina android Development With uda..</string>
+
+    <string name="text3_1">Geetha Dowluri</string>
+    <string name="text3_2">Hello</string>
+    <string name="text3_3">Hey Nikhil, it has been a long time ....</string>
+
+    <string name="text4_1">Samsung account</string>
+    <string name="text4_2">Notifications of Samsung account login</string>
+    <string name="text4_3">Samsung account Notifications of Samsung ...</string>
+
+    <string name="text5_1">Aadhar</string>
+    <string name="text5_2">Link your Adhaar card  </string>
+    <string name="text5_3">Please link your Aadhar to stop irritating call and..</string>
+
+    <string name="text6_1">Domino's Pizza</string>
+    <string name="text6_2">Every Day Value Offer</string>
+    <string name="text6_3">Every Day Value Offer get 2 medium pizzas @199 each..</string>
+
+    <string name="text7_1">Udacity</string>
+    <string name="text7_2">Get set to get hired for the jobs of tomorrow</string>
+    <string name="text7_3">To create a pool of highly skill tech workers...</string>
+
+    <string name="text8_1">Katherine</string>
+    <string name="text8_2">Birthday Card</string>
+    <string name="text8_3">Create a birthday card which shows name and image...</string>
+
+    <string name="text9_1">TEDx</string>
+    <string name="text9_2">Invitation</string>
+    <string name="text9_3">A TEDx event is a local gathering where live TED...</string>
+
+
+
+    <string name="time1">4:30 PM</string>
+    <string name="time2">1:20 PM</string>
+    <string name="time3">11:15 AM</string>
+    <string name="time4">Mar 22</string>
+    <string name="time5">Mar 22</string>
+    <string name="time6">Mar 22</string>
+    <string name="time7">Mar 21</string>
+    <string name="time8">Mar 21</string>
+    <string name="time9">Feb 7</string>
+
+
+
+
+
+</resources>
