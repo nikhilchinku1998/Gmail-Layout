@@ -1,0 +1,30 @@
+<resources>
+    
+    <dimen name="button_width_height">45dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+    <dimen name="button_text_size">26sp</dimen>
+    <dimen name="toolbutton">5dp</dimen>
+    <dimen name="toolsearch_light_margin">165dp</dimen>
+    <dimen name="toolsearch_top_margin">5dp</dimen>
+    <dimen name="tooltext">35dp</dimen>
+    
+    
+    <dimen name="text_1_size">16sp</dimen>
+    <dimen name="text_2_size">14sp</dimen>
+    <dimen name="text_3_size">12sp</dimen>
+
+
+    <dimen name="text_margin">10dp</dimen>
+
+
+
+
+    <dimen name="imagebutton_margin_top">35dp</dimen>
+    <dimen name="imagebutton_margin_right">10dp</dimen>
+
+
+    <dimen name="view_height">0.5dp</dimen>
+    <dimen name="layout_padding">5dp</dimen>
+
+
+</resources>
